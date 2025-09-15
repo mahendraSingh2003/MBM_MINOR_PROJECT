@@ -24,7 +24,7 @@ Note: Python version 3.8.13 was used for this project.
 
 ## How to run?
 
-First Download Zip https://github.com/GuoQuanhao/68_points/blob/master/shape_predictor_68_face_landmarks.dat
+First Download file== https://github.com/GuoQuanhao/68_points/blob/master/shape_predictor_68_face_landmarks.dat save as shape_predictor_68_face_landmarks.dat in root directory
 
 cd to the directory where root file is located
 
@@ -52,4 +52,5 @@ Facial recognition is becoming more prominent in our society. It has made major 
 
 ## Need any help?
 ##### Connect me on [LinkedIn](https://www.linkedin.com/in/manisha-varshney-914646191/)  <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" width="25"> 
+
 
